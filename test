@@ -1,0 +1,20 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Mijn Website</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Welkom op mijn website</h1>
+  </header>
+  <main>
+    <p>Dit is een voorbeeldsite.</p>
+  </main>
+  <footer>
+    <p>© 2025 Mijn Naam</p>
+  </footer>
+</body>
+</html>
